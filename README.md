@@ -1,1 +1,3 @@
 # Analysis-of-Netflix-Shows-and-Stocks
+
+I spearheaded a thorough analysis of Netflix's content catalog, strategically enhancing user satisfaction through optimized content selection. Led data-driven assessments of original content, influencing key decisions on subscriber retention and acquisition. Applied market trend analyses to anticipate viewer preferences and optimize content acquisition. Established frameworks correlating content quality with financial performance. Developed data-driven initiatives for subscriber growth and contributed to targeted marketing campaigns. Additionally, conducted analyses of content and subscriber impact on stock prices, delivering actionable insights to stakeholders
